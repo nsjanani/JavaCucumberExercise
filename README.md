@@ -4,6 +4,6 @@ Feature: Search 'Cars in London' in Google, get all Gumtree links from search re
 
 Assumptions:
 ------------
-1. Search results on the first page only has been considered.
+1. Search results on the first page only considered.
 2. 'Ads' links and 'Top stories' links are not taken into account.
 
